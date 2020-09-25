@@ -1,2 +1,3 @@
 # ai-notebooks
-IPython/Jupyter notebooks with AI algorithms.
+
+IPython notebooks with AI algorithms.
